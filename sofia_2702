@@ -1,0 +1,66 @@
+Basics, Variables, and Storage Classes
+Write a C program to calculate the area and perimeter of a rectangle using float variables.
+
+Create a program that takes a temperature in Celsius as input and converts it to Fahrenheit.
+
+Write a program that uses the const keyword to define the value of PI (3.14159) and calculates the area of a circle.
+
+Write a program to demonstrate what happens when a variable is declared but not initialized (printing a garbage value) using the auto storage class.
+
+Create a program to perform addition, subtraction, multiplication, division, and modulo operations on two integers, displaying each result on a new line.
+
+Operators
+Write a program to find the largest of three numbers using only the conditional (ternary ?:) operator.
+
+Write a C program to read an integer and print its complement using the Bitwise NOT (~) operator.
+
+Implement a program to right-shift (>>) a positive integer by 2 positions and explain in a comment how the value mathematically changes.
+
+Write a program using the sizeof operator to find the size of an integer expression (e.g., sizeof(a + b)).
+
+Create a program that demonstrates the pre-increment (++a) and post-increment (a++) operators, printing the differences in their behavior.
+
+Write a program that takes a user's age as input and uses logical operators (&&, ||) to check if they are eligible for both a teen discount (age 13-19) and a student discount.
+
+Decision Making Statements
+Write a program that accepts an integer and checks if it is a positive or negative number using a simple if-else statement.
+
+Write a program to check whether a given character input by the user is an alphabet, a digit, or a special character.
+
+Implement a program to determine the roots of a quadratic equation using an if-else if ladder.
+
+Write a program to check if a given year is a leap year using a nested if statement (do not use logical AND/OR).
+
+Create a calculator using the switch statement that takes an operator (+, -, *, /, %) and two integer operands from the user.
+
+Write a program to print the names of the days of the week based on an input number (1 for Monday, 2 for Tuesday, etc.) using switch. Include a default case for invalid inputs.
+
+Looping Statements (For, While, Do-While)
+Write a program to calculate the sum of the first N natural numbers using a while loop.
+
+Implement a program to display the Fibonacci series up to a given number of terms using a for loop.
+
+Write a program to find the sum of the individual digits of a given number (e.g., 123 -> 6) using a while loop.
+
+Create a program to check whether a given number is a palindrome or not (e.g., 121 is a palindrome).
+
+Write a C program to check if a given number is an Armstrong number (e.g., 153 = 1³ + 5³ + 3³) using a while loop.
+
+Write a program to print the ASCII values of all uppercase letters from 'A' to 'Z' using a for loop.
+
+Implement a program using a do-while loop to create a simple interactive menu (1. Check Balance, 2. Deposit, 3. Withdraw, 4. Exit) that repeats until the user chooses to exit.
+
+Write a C program to generate a hollow square star pattern of a given size using nested for loops.
+
+Write a program to find the Greatest Common Divisor (GCD) of two numbers using a while loop.
+
+Write a C program to count the total number of digits in an integer using a while loop.
+
+Jumping Statements
+Create a program that reads numbers continuously from the user. If the user enters a negative number, stop the loop using break and print the sum of all positive numbers entered.
+
+Write a program to print all odd numbers between 1 and 50, but skip any numbers that are divisible by 5 using the continue statement.
+
+Write a program using the goto statement to immediately jump out of a nested loop structure when a specific error condition (like dividing by zero) is met.
+
+
